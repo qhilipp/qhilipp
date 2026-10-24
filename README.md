@@ -2,8 +2,12 @@
   <h1>Philipp Kathöfer</h1>
   <p><b>M.Sc. Computer Science @ TU Munich</b></p>
   <p>
-    <a href="[https://github.com/qhilipp?tab=repositories](https://github.com/qhilipp?tab=repositories)"><img src="[https://img.shields.io/badge/Repositories-GitHub-black?style=for-the-badge&logo=github](https://img.shields.io/badge/Repositories-GitHub-black?style=for-the-badge&logo=github)" alt="Repositories"></a>
-    <a href="[https://www.linkedin.com/in/philipp-kath%C3%B6fer/](https://www.linkedin.com/in/philipp-kath%C3%B6fer/)"><img src="[https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)" alt="LinkedIn"></a>
+    <a href="https://github.com/qhilipp?tab=repositories">
+      <img src="https://img.shields.io/badge/Repositories-black?style=for-the-badge&logo=github" alt="Repositories">
+    </a>
+    <a href="https://www.linkedin.com/in/philipp-kath%C3%B6fer/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    </a>
   </p>
 </div>
 
@@ -22,23 +26,13 @@ class PhilippKathoefer:
 <br/>
 
 <div align="center">
-  <picture>
-    <!-- Dark Mode Stats -->
-    <source media="(prefers-color-scheme: dark)" srcset="[https://github-readme-stats.vercel.app/api?username=qhilipp&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=qhilipp&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&include_all_commits=true)">
-    <!-- Light Mode Stats -->
-    <source media="(prefers-color-scheme: light)" srcset="[https://github-readme-stats.vercel.app/api?username=qhilipp&show_icons=true&theme=transparent&hide_border=true&title_color=1f2328&text_color=59636e&icon_color=1f2328&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=qhilipp&show_icons=true&theme=transparent&hide_border=true&title_color=1f2328&text_color=59636e&icon_color=1f2328&include_all_commits=true)">
-    <!-- Fallback -->
-    <img src="[https://github-readme-stats.vercel.app/api?username=qhilipp&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=qhilipp&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&include_all_commits=true)" alt="GitHub Stats" width="48%" />
-  </picture>
-
-  <picture>
-    <!-- Dark Mode Streak -->
-    <source media="(prefers-color-scheme: dark)" srcset="[https://github-readme-streak-stats.herokuapp.com/?user=qhilipp&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=c9d1d9](https://github-readme-streak-stats.herokuapp.com/?user=qhilipp&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=c9d1d9)">
-    <!-- Light Mode Streak -->
-    <source media="(prefers-color-scheme: light)" srcset="[https://github-readme-streak-stats.herokuapp.com/?user=qhilipp&theme=transparent&hide_border=true&ring=1f2328&fire=1f2328&currStreakNum=1f2328&sideNums=1f2328&sideLabels=59636e&dates=59636e](https://github-readme-streak-stats.herokuapp.com/?user=qhilipp&theme=transparent&hide_border=true&ring=1f2328&fire=1f2328&currStreakNum=1f2328&sideNums=1f2328&sideLabels=59636e&dates=59636e)">
-    <!-- Fallback -->
-    <img src="[https://github-readme-streak-stats.herokuapp.com/?user=qhilipp&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=c9d1d9](https://github-readme-streak-stats.herokuapp.com/?user=qhilipp&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=c9d1d9)" alt="GitHub Streak" width="48%" />
-  </picture>
+  <!-- Dark Mode Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=qhilipp&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&include_all_commits=true#gh-dark-mode-only" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qhilipp&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=c9d1d9#gh-dark-mode-only" alt="GitHub Streak" width="48%" />
+  
+  <!-- Light Mode Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=qhilipp&show_icons=true&theme=transparent&hide_border=true&title_color=1f2328&text_color=59636e&icon_color=1f2328&include_all_commits=true#gh-light-mode-only" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qhilipp&theme=transparent&hide_border=true&ring=1f2328&fire=1f2328&currStreakNum=1f2328&sideNums=1f2328&sideLabels=59636e&dates=59636e#gh-light-mode-only" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
@@ -71,7 +65,4 @@ class PhilippKathoefer:
       </td>
     </tr>
   </table>
-  
-  <br/>
-  <p><i>Bridging the gap between rigorous AI research and native product experiences.</i></p>
 </div>
